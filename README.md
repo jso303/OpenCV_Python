@@ -1,1 +1,1 @@
-# OpenCV_Python
+# OpenCV_Python 공부
