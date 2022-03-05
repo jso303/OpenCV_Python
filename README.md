@@ -60,4 +60,5 @@
 ## 이미지 파일 다운로드
 
 이미지 파일은 [이곳](https://github.com/dltpdn/insightbook.opencv_project_python)에서 다운받으시면 됩니다.
-8장에 사용되는 이미지는 캘리포니아 공대에서 Caltech101을 검색해서 데이터셋 101 이미지를 다운받으시면 됩니다
+
+8장에 사용되는 이미지는 [이곳](http://www.vision.caltech.edu/Image_Datasets/Caltech101/)에서 다운받으시면 됩니다.
