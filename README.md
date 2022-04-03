@@ -66,6 +66,9 @@
 - 2022.03.31
   - Matplotlib 강의 수강
   - 강의 영상은 이수안컴퓨터연구소의 [Matplotlib 한번에 끝내기 - 데이터 과학 시각화 라이브러리](https://www.youtube.com/watch?v=5DfACSYgP0U) 를 수강하였습니다
+  
+- 2022.04.03
+  - Matplotlib 강의 완료
 
 
 ## 이미지 파일 다운로드
